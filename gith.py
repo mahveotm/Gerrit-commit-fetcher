@@ -62,4 +62,4 @@ def getcommit():
 
 while True:
     getcommit()
-
+    time.sleep(5)
